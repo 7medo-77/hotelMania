@@ -1,1 +1,1 @@
-# hotelMania
+# hotelmania
